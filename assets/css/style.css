@@ -163,7 +163,7 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/vector-email-icon.jpg");
+  background-image: url("../images/github_2048_black.png");
   background-size: cover;
   background-position: center;
 }
@@ -179,7 +179,7 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/TOGQmMU.jpg");
+  background-image: url("../images/vector-web-icon.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -195,7 +195,23 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/github_2048_black.png");
+  background-image: url("../images/vector-web-icon.jpg");
+  background-size: cover;
+  background-position: left center;
+}
+
+.group-project {
+  width: 400px;
+  height: 400px;
+  display:flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/vector-web-icon.jpg");
   background-size: cover;
   background-position: left center;
 }
@@ -293,7 +309,19 @@ ul {
   background-color: rgba(0,0,0,0.625);
 }
 .office-project {
-  width: 600x;
+  width: 400x;
+  height: 400px;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/github_2048_black.png");
+  background-size: cover;
+  background-position: center;
+}
+.website-project {
+  width: 400px;
   height: 400px;
   background: #fff;
   position: relative;
@@ -304,8 +332,21 @@ ul {
   background-size: cover;
   background-position: center;
 }
-.website-project {
-  width: 600px;
+
+.prework-project {
+  width: 400px;
+  height: 400px;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/vector-email-icon.jpg");
+  background-size: cover;
+  background-position: right center;
+}
+.group-project {
+  width: 400px;
   height: 400px;
   background: #fff;
   position: relative;
@@ -314,20 +355,7 @@ ul {
   margin: 50px;
   background-image: url("../images/TOGQmMU.jpg");
   background-size: cover;
-  background-position: center;
-}
-
-.prework-project {
-  width: 600px;
-  height: 400px;
-  background: #fff;
-  position: relative;
-  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-  border-radius: 10px;
-  margin: 50px;
-  background-image: url("../images/github_2048_black.png");
-  background-size: cover;
-  background-position: right center;
+  background-position: left center;
 }
 
 .about-container{
