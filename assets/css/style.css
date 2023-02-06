@@ -163,7 +163,7 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/github_2048_black.png");
+  background-image: url("../images/IMG_20150828_162657644.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -179,7 +179,7 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/vector-web-icon.jpg");
+  background-image: url("../images/IMG_2361.JPG");
   background-size: cover;
   background-position: center;
 }
@@ -195,7 +195,7 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/vector-web-icon.jpg");
+  background-image: url("../images/IMG_20150828_162657644.jpg");
   background-size: cover;
   background-position: left center;
 }
@@ -211,7 +211,23 @@ h3 {
   box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
   border-radius: 10px;
   margin: 50px;
-  background-image: url("../images/vector-web-icon.jpg");
+  background-image: url("../images/20181023_130613.jpg");
+  background-size: cover;
+  background-position: left center;
+}
+
+.video-game-review {
+  width: 400px;
+  height: 400px;
+  display:flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/IMG_20150828_162657644.jpg");
   background-size: cover;
   background-position: left center;
 }
