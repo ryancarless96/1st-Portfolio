@@ -232,6 +232,21 @@ h3 {
   background-position: center;
 }
 
+.gregs-list {
+  width: 400px;
+  height: 400px;
+  display:flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/gregs-list.jpeg");
+  background-size: cover;
+  background-position: center;
+}
 .text-container {
   position: absolute;
   height: 75px;
@@ -385,6 +400,21 @@ ul {
   background-image: url("../images/reviewer\ image.jpeg");
   background-size: cover;
   background-position: left center;
+}
+.gregs-list {
+  width: 400px;
+  height: 400px;
+  display:flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  background: #fff;
+  position: relative;
+  box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 50px;
+  background-image: url("../images/gregs-list.jpeg");
+  background-size: cover;
+  background-position: center;
 }
 
 .about-container{
